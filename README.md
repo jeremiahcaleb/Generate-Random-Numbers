@@ -18,7 +18,8 @@ This Python code generates multiple sets of unique random numbers within a user-
 
 **Example Output:**
 
-```Enter the starting number of the range: 1
+```
+Enter the starting number of the range: 1
 Enter the ending number of the range: 14
 How many numbers do you want in each set? 3
 Set 1: [3, 7, 1]
