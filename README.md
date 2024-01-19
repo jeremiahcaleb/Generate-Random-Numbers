@@ -22,11 +22,11 @@ This Python code generates multiple sets of unique random numbers within a user-
 Enter the starting number of the range: 1
 Enter the ending number of the range: 14
 How many numbers do you want in each set? 3
-Set 1: [3, 7, 1]
-Set 2: [8, 10, 6]
-Set 3: [9, 2, 11]
-Set 4: [4, 12, 13]
-Set 5: [5, 14]  # Final set with remaining numbers
+Set 1: [10, 2, 12]
+Set 2: [5, 4, 7]
+Set 3: [14, 11, 13]
+Set 4: [3, 9, 6]
+Set 5: [1, 8]  # Final set with remaining numbers
 ```
 
 **Key Features:**
