@@ -4,8 +4,8 @@ def generate_unique_sets(start, end, num_per_set):
     """Generates multiple sets of unique random numbers within a given range.
 
     Args:
-        start: The lower bound of the range (inclusive).
-        end: The upper bound of the range (exclusive).
+        start: The lower bound of the range.
+        end: The upper bound of the range.
         num_per_set: The number of numbers in each set.
 
     Returns:
